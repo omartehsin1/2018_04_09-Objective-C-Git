@@ -91,6 +91,8 @@ Linus Torvalds, the guy who invented Git... And linux.
 * The seven rules of a great git commit message: <http://chris.beams.io/posts/git-commit/>
 * Tower Cheet sheet bundle <http://git-tower.us2.list-manage.com/track/click?u=91c176fb902e8f939256a238e&id=0bd5a55b50&e=b591a8a119> *(Contains cheat sheets for git, command line, Xcode, and more)*
 
+If you're looking for stretch work this week: https://gist.github.com/meech-ward/71eea16c35775d3234b28341287f5465
+
 ---
 
 # Objective-C
